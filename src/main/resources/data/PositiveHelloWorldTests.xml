@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HelloWorldModel>
+	<HelloWorldTestData name="testcasename1">
+		<key>key1</key>
+		<expectedValue>value1</expectedValue>
+	</HelloWorldTestData>
+	
+	<HelloWorldTestData name="testcasename2">
+		<key>key2</key>
+		<expectedValue>value2</expectedValue>
+	</HelloWorldTestData>
+</HelloWorldModel>

@@ -1,0 +1,4 @@
+<environments>
+	<environment default="true" desc="Local Environment" name="Local">
+	</environment>
+</environments>

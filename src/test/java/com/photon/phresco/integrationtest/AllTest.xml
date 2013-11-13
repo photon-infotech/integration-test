@@ -1,0 +1,9 @@
+<suite name="IT_Test" verbose="1">
+
+	<test name="IntegrationTest" junit="false" preserve-order="true">
+		<parameter name="positivehelloworlddataxml" value="/data/PositiveHelloWorldTests.xml" />
+		<classes>
+			<class name="com.photon.phresco.integrationtest.tests.HelloWorldTest" />
+		</classes>
+	</test>
+</suite> 
