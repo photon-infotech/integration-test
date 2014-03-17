@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.photon.phresco.test</groupId>
 	<artifactId>integrationtest</artifactId>
-	<version>3.2.0.13002</version>
+	<version>3.3.0.5000</version>
 	<name>Integration Test</name>
 
 	<dependencies>
@@ -55,7 +55,7 @@
 			<plugin>
 				<groupId>com.photon.phresco.plugins</groupId>
 				<artifactId>phresco-maven-plugin</artifactId>
-				<version>3.2.0.13002</version>
+				<version>3.3.0.5000</version>
 				<extensions>true</extensions>
 			</plugin>
 		</plugins>
